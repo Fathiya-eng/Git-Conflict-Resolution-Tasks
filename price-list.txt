@@ -1,5 +1,10 @@
 Product A: $100
+ clearance
+Product B: $110
+Product C: $225
+
  vip-pricing
 Product B: $170
 Product B: $150
 Product C: $300
+ 
